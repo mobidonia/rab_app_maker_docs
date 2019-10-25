@@ -16,11 +16,7 @@ For iPhone app. We will need some extra things from your side. Head over to iPho
 
 ![](../.gitbook/assets/send_files.png)
 
-Click on the **Download the app project files** button
-
-This file contains your app meta-data. 
-
-Send it to our email. 
+Send us email with info on how we can proceed. 
 
 What we will do, is we will compile and make your app. But we will need you to provide us with your Apple Developer Account credentials \( 99$/y \) so we can upload your iPhone app. There is option also to upload the app on ours Apple Dev Account. So Pls emails us with your requirements.
 

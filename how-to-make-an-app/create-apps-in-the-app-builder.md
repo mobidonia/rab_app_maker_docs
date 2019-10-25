@@ -2,7 +2,7 @@
 
 Soon as you log in, and have subscribed to a plan, you will be able to make a new app.
 
-![](../.gitbook/assets/screenshot-at-oct-24-13-36-50.png)
+![](../.gitbook/assets/create_app.png)
 
 After that choose a template, for now, you can choose between 12 templates, but stay tuned, new templates are coming soon. Templates have already created an app with the basic sections \(ex: Conference template contains: agenda, the location where the conference is, buy a tickets section, social and etc\). You can add or delete a section, it's up to your needs.
 
