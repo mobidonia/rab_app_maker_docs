@@ -1,4 +1,4 @@
 # Learn how to make mobile apps
 
-Documentation for making apps in React App Builder.
+This tutorial  will guide you on how to make apps in our app builder.
 
