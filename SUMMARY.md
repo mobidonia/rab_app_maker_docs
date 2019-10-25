@@ -18,7 +18,6 @@
 ## Publishing and updating
 
 * [Submit app for creation](publishing-and-updating/submit-app-for-creation.md)
-* [Publish Android app](publishing-and-updating/publish-android-app.md)
 * [Publish iOS App](publishing-and-updating/publish-ios-app.md)
 * [Updating your app](publishing-and-updating/updating-your-app.md)
 
