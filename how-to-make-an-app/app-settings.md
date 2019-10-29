@@ -2,7 +2,7 @@
 
 By clicking on the **App settings**, will bring you to your App settings and there you have options to preview the individual settings you want. Click on the sub menu below and change the option you want.
 
-### [Logins](https://mobidonia.support-hub.io/articles/app-settings#spanloginsspan)
+### Logins
 
 From here you can manage and change all Login settings.
 
@@ -57,7 +57,7 @@ And \* Now you have googleIOSId and googleAndroidID set them to your React App B
 
 ![](../.gitbook/assets/v6fk5inaa2ikn0skgcabrsao5b4cjeeldsj76ao9.png)
 
-### [Orders](https://mobidonia.support-hub.io/articles/app-settings#orders)
+### Orders
 
 From here you can manage and change all Order settings.
 
@@ -65,7 +65,7 @@ Order settings include this options \[SendEmailOnOrder, SendToEmail\]
 
 ![](../.gitbook/assets/gjnuq1ewxcdtvzddg5vtyfya7twpttzizjirb8ei.png)
 
-### [Ads](https://mobidonia.support-hub.io/articles/app-settings#ads)
+### Ads
 
 From here you can manage and change all Add settings.
 
@@ -75,7 +75,7 @@ On this [link](https://admob.google.com/home/) you can create your banner and in
 
 ![](../.gitbook/assets/ndalbtsj79jxf9g75gs8scm7cqe9rv6e8wcltzqt.png)
 
-### [PayPal](https://mobidonia.support-hub.io/articles/app-settings#paypal)
+### PayPal
 
 From here you can manage and change all PayPal payment settings.
 
