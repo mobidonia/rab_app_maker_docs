@@ -1,4 +1,4 @@
-# Specific app setp
+# Radio App Setup
 
 In this section, we explain the common things you can do to a certain component/template.
 

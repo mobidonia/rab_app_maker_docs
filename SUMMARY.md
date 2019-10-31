@@ -8,7 +8,7 @@
 * [Manage the app](how-to-make-an-app/manage-the-app.md)
 * [Section content](how-to-make-an-app/section-content.md)
 * [App design](how-to-make-an-app/app-design.md)
-* [Specific app setp](how-to-make-an-app/specific-app-setp.md)
+* [Radio App Setup](how-to-make-an-app/specific-app-setp.md)
 * [App Settings](how-to-make-an-app/app-settings.md)
 
 ## Test Mobile App
