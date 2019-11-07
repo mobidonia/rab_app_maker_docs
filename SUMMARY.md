@@ -9,6 +9,7 @@
 * [Section content](how-to-make-an-app/section-content.md)
 * [App design](how-to-make-an-app/app-design.md)
 * [Radio App Setup](how-to-make-an-app/specific-app-setp.md)
+* [Shopify App](how-to-make-an-app/shopify-app.md)
 * [App Settings](how-to-make-an-app/app-settings.md)
 
 ## Test Mobile App
